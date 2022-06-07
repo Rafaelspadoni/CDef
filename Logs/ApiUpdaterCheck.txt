@@ -1,0 +1,30 @@
+[api-updater (non-obsolete-error-filter)] 16/02/2022 15:03:00 : Starting D:/Minhas Coisas/Planos/Projeto PDI/Desenvolvimento/Programação/Engine/2020.3.18f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 4324,9821ms
+moved types parse time: 100ms
+candidates parse time : 1ms
+C# parse time         : 1285ms
+candidates check time : 49ms
+console write time    : 4ms
+
+[api-updater (non-obsolete-error-filter)] 16/02/2022 18:58:19 : Starting D:/Minhas Coisas/Planos/Projeto PDI/Desenvolvimento/Programação/Engine/2020.3.18f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2568,578ms
+moved types parse time: 63ms
+candidates parse time : 1ms
+C# parse time         : 882ms
+candidates check time : 36ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 09/03/2022 21:22:04 : Starting D:/Minhas Coisas/Planos/Projeto PDI/Desenvolvimento/Programação/Engine/2020.3.18f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2723,8967ms
+moved types parse time: 59ms
+candidates parse time : 1ms
+C# parse time         : 872ms
+candidates check time : 38ms
+console write time    : 0ms
+
